@@ -20,7 +20,9 @@ Zoom and Follow Mouse
 
 Apple can not verify alert
 
-![image](https://github.com/user-attachments/assets/ceef4d62-0e3c-4fd8-9faf-14099fda2c78)
+> [!note]
+>![image](https://github.com/user-attachments/assets/ceef4d62-0e3c-4fd8-9faf-14099fda2c78)
+>
 
 Privacy and Security Open Anyway
 
