@@ -39,3 +39,11 @@ https://github.com/user-attachments/assets/9dfd0b99-edd9-4c4d-908e-b9d4e7016307
 UUhimsy compact
 
 ![image](https://github.com/user-attachments/assets/4789585c-021e-4a50-ac6d-ee1c19f1913f)
+
+UUhimsy OBS Settings
+
+![image](https://github.com/user-attachments/assets/7678e1b9-40a0-40e3-9c2c-373748c65217)
+
+![image](https://github.com/user-attachments/assets/ebaafc94-fa14-4e97-acb1-0a00b8c473b7)
+
+
