@@ -46,5 +46,8 @@ UUhimsy OBS Settings
 
 ![image](https://github.com/user-attachments/assets/10e24711-c2d0-48a7-98c3-cd20de8d9bb4)
 
+UUHimsy commands
+
+![image](https://github.com/user-attachments/assets/3352b9c9-1886-4c0e-aaf8-0a0c567474d2)
 
 
